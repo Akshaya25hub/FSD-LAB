@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>&#127822; Fruits and Vegetables Information &#129365;</title>
+</head>
+<body>
+    <center>
+        <h2>Akshaya Chittala</h2>
+        <h3>24K61A227</h3>
+        <h1>&#127822; Fruits &amp; Vegetables Information System &#129382;</h1>
+        <p>&#128073; Click any fruit or vegetable to view details</p>
+    </center>
+
+    <table border="1" width="90%" align="center" cellpadding="15">
+        <tr>
+            <th>&#127822; Fruits</th>
+            <th>Vegetables &#129382;</th>
+        </tr>
+        <tr>
+            <td>
+                <details>
+                    <summary>&#127822; Apple</summary>
+                    <h3>&#127822; Apple Details</h3>
+                    <p>
+                        Scientific Name : Malus domestica<br>
+                        Colour : Red / Green<br>
+                        Taste : Sweet<br>
+                        Vitamin : Vitamin C<br>
+                        Benefits : Boosts immunity, improves heart health, rich in fibre.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#127820; Banana</summary>
+                    <h3>&#127820; Banana Details</h3>
+                    <p>
+                        Scientific Name : Musa<br>
+                        Colour : Yellow<br>
+                        Taste : Sweet<br>
+                        Vitamin : Vitamin B6 &amp; C<br>
+                        Benefits : Provides energy and supports digestion.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#129361; Avocado</summary>
+                    <h3>&#129361; Avocado Details</h3>
+                    <p>
+                        Scientific Name : Persea americana<br>
+                        Colour : Green<br>
+                        Taste : Creamy<br>
+                        Vitamin : Vitamin E &amp; K<br>
+                        Benefits : Good for skin and heart health.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#127818; Orange</summary>
+                    <h3>&#127818; Orange Details</h3>
+                    <p>
+                        Scientific Name : Citrus sinensis<br>
+                        Colour : Orange<br>
+                        Taste : Sweet and Tangy<br>
+                        Vitamin : Vitamin C<br>
+                        Benefits : Improves immunity and skin health.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#127815; Grapes</summary>
+                    <h3>&#127815; Grapes Details</h3>
+                    <p>
+                        Scientific Name : Vitis vinifera<br>
+                        Colour : Green / Purple<br>
+                        Taste : Sweet<br>
+                        Vitamin : Vitamin K<br>
+                        Benefits : Supports heart health and hydration.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#129389; Mango</summary>
+                    <h3>&#129389; Mango Details</h3>
+                    <p>
+                        Scientific Name : Mangifera indica<br>
+                        Colour : Yellow<br>
+                        Taste : Sweet<br>
+                        Vitamin : Vitamin A &amp; C<br>
+                        Benefits : Improves eyesight and immunity.
+                    </p>
+                </details>
+            </td>
+            <td>
+                <details>
+                    <summary>&#129365; Carrot</summary>
+                    <h3>&#129365; Carrot Details</h3>
+                    <p>
+                        Scientific Name : Daucus carota<br>
+                        Colour : Orange<br>
+                        Vitamin : Vitamin A<br>
+                        Benefits : Good for eyesight.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#129476; Beetroot</summary>
+                    <h3>&#129476; Beetroot Details</h3>
+                    <p>
+                        Scientific Name : Beta vulgaris<br>
+                        Colour : Purple<br>
+                        Vitamin : Vitamin C<br>
+                        Benefits : Improves blood circulation.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#127813; Lady's Finger</summary>
+                    <h3>&#127813; Lady's Finger Details</h3>
+                    <p>
+                        Scientific Name : Abelmoschus esculentus<br>
+                        Colour : Green<br>
+                        Benefits : Good for digestion and bones.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#129362; Bitter Gourd</summary>
+                    <h3>&#129362; Bitter Gourd Details</h3>
+                    <p>
+                        Scientific Name : Momordica charantia<br>
+                        Colour : Green<br>
+                        Taste : Bitter<br>
+                        Benefits : Helps regulate blood sugar.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#129362; Cucumber</summary>
+                    <h3>&#129362; Cucumber Details</h3>
+                    <p>
+                        Scientific Name : Cucumis sativus<br>
+                        Colour : Green<br>
+                        Benefits : Keeps the body hydrated.
+                    </p>
+                </details>
+                <br>
+                <details>
+                    <summary>&#127819; Lemon</summary>
+                    <h3>&#127819; Lemon Details</h3>
+                    <p>
+                        Scientific Name : Citrus limon<br>
+                        Colour : Yellow<br>
+                        Taste : Sour<br>
+                        Vitamin : Vitamin C<br>
+                        Benefits : Boosts immunity and aids digestion.
+                    </p>
+                </details>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
