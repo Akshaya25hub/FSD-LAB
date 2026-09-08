@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 0;
+        }
+
+        /* Student Information */
+        .student-info {
+            background-color: white;
+            text-align: center;
+            padding: 10px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        header {
+            background-color: lightblue;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: lightgray;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav a {
+            color: black;
+            text-decoration: none;
+            margin: 20px;
+            font-size: 18px;
+            cursor: pointer;
+        }
+
+        .page {
+            padding: 40px;
+            min-height: 300px;
+        }
+
+        footer {
+            background-color: lightgray;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+
+    <script>
+        function showPage(pageName) {
+
+            document.getElementById("home").style.display = "none";
+            document.getElementById("about").style.display = "none";
+            document.getElementById("contact").style.display = "none";
+
+            document.getElementById(pageName).style.display = "block";
+        }
+    </script>
+</head>
+
+<body>
+
+    <!-- Student Information -->
+    <div class="student-info">
+        24K61A1227<br>
+        Ch.AKSHAYA
+    </div>
+
+    <!-- Header -->
+    <header>
+        <h1>My Website</h1>
+        <p>Welcome to my webpage</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a onclick="showPage('home')">Home</a>
+        <a onclick="showPage('about')">About</a>
+        <a onclick="showPage('contact')">Contact</a>
+    </nav>
+
+    <main>
+
+        <!-- Home Page -->
+        <div id="home" class="page">
+            <h2>Home</h2>
+            <p>Welcome to the Home page.</p>
+            <p>My name is <span>Akshaya</span>.</p>
+        </div>
+
+        <!-- About Page -->
+        <div id="about" class="page" style="display:none;">
+            <h2>About</h2>
+            <p>This is the About page.</p>
+            <p>This website is created using HTML5 and CSS.</p>
+        </div>
+
+        <!-- Contact Page -->
+        <div id="contact" class="page" style="display:none;">
+            <h2>Contact</h2>
+            <p>Contact us using the details below.</p>
+            <p>Email: example@gmail.com</p>
+            <p>Phone: 9876543210</p>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>Copyright © 2026 My Website</p>
+    </footer>
+
+</body>
+</html>
+
